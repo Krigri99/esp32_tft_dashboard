@@ -5,7 +5,7 @@ This is a device I made for the exam in the course PG5501 at Kristiania Universi
 * Display of time and date
 * Display of he temperature inside
 * Parking sensor (distance)
-* Burglar alarm
+* Burglar alarm that can be deactivated with RFID
 
 ## Wiring
 For wiring instructions, look at the fritzing file included.
