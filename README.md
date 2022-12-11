@@ -6,3 +6,6 @@ This is a device I made for the exam in the course PG5501 at Kristiania Universi
 * Display of he temperature inside
 * Parking sensor (distance)
 * Burglar alarm
+
+## Wiring
+For wiring instructions, look at the fritzing file included
